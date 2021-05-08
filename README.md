@@ -1,13 +1,14 @@
 # testeThoughtworks
 
-Sobre
+Sobre:
+
 Página de busca de vagas com validação de campos e retorno após envio do formulário. Script criado com Cypress Framework
 
-Pré-requisitos
+Pré-requisitos:
 Virtual Studio Code . 1.56.0 (ou superior)
 Cypress Framework instalado
 
-Executar
+Executar:
   git clone: https://github.com/FilipePereira1989/testeThoughtworks
   
   
